@@ -2,4 +2,4 @@
 
 ## Editing file
 
-There's a markdown in this repository.
+This file has been edited.
